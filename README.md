@@ -9,3 +9,6 @@
 - Frontend Framework/Languages (Next.js, React.js, Typescript, Javascript)
 - React state/asynchronous Libaries (Redux, Mobx, Recoil, react-query)
 - Cloud Platform (AWS, Azure, GCP)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinah92&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
